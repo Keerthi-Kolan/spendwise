@@ -1,0 +1,3 @@
+# Never commit real bank statements
+data/real/
+*.local.csv
